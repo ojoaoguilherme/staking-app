@@ -37,3 +37,7 @@ You can create a simple frontend using any frontend framework or pure HTML/Javas
 Simple example template for documenting any of the feature or improvement in the task
 
 ### Topic 2
+
+## How do I show the results ?
+You can simply invite my user `@ojoaoguilherme` to your project, tell me which commit I should look and done. 
+
